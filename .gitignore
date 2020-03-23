@@ -1,0 +1,10 @@
+# Directories
+/vendor/*
+/Tests/env/local/
+
+# Files
+.DS_Store
+
+
+
+
